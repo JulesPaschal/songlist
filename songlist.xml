@@ -1,0 +1,107 @@
+
+<?xml-stylesheet type="text/css" href="songstyle.css"?>
+<SetList> 
+    <bandName> Edgelord Supreme's Vampire Cover Band</bandName>
+    <Presents> ~Presents~ </Presents>
+    <concertTitle> Vampire Brainworms, The Concert!</concertTitle> 
+    <song> 
+        <title> Vampire </title>
+        <artist> Dominic Fike </artist>
+        <genre> Alt/Indie</genre>
+        <year> 2020 </year>
+    </song>
+
+    <song> 
+        <title> Vampire Ska</title>
+        <artist> Horny Toad </artist>
+        <genre> Ska</genre>
+        <year> 1996 </year>
+    </song>
+
+    <song> 
+        <title> Vampire</title>
+        <artist> Noah Cunane </artist>
+        <genre> Pop </genre>
+        <year> 2020 </year>
+    </song>
+
+    <song> 
+        <title> A-Punk </title>
+        <artist> Vampire Weekend </artist>
+        <genre> Alternative </genre>
+        <year> 2008 </year>
+    </song>
+
+    <song> 
+        <title> We Love Like Vampires </title>
+        <artist> Sparks the Rescue</artist>
+        <genre> Alt/Indie </genre>
+        <year> 2009 </year>
+    </song>
+
+     <song> 
+        <title> No Vampires Remain in Romania (Dracula Spectacular) </title>
+        <artist> King Luan</artist>
+        <genre> Pop/Disco </genre>
+        <year> 2016 </year>
+    </song>
+
+    <song> 
+        <title> Let's Kill Tonight </title>
+        <artist> Panic! At the Disco</artist>
+        <genre> Alt/Indie </genre>
+        <year> 2011 </year>
+    </song>
+
+    <song> 
+        <title> Death of Me </title>
+        <artist> PVRIS </artist>
+        <genre> Alt/Indie </genre>
+        <year> 2020 </year>
+    </song>
+
+
+    <song> 
+        <title> Seven Devils </title>
+        <artist> Florence + the Machine </artist>
+        <genre> Alt/Indie </genre>
+        <year> 2011 </year>
+    </song>
+
+    <song> 
+        <title> Nothing Personal </title>
+        <artist> Night Riots </artist>
+        <genre> Alt/Rock </genre>
+        <year> 2017 </year>
+    </song>
+
+    <song> 
+        <title> Slither </title>
+        <artist> Bohnes </artist>
+        <genre> Alt/Rock </genre>
+        <year> 2018 </year>
+    </song>
+
+    <song> 
+        <title> Tokyo(Vampires and Wolves) </title>
+        <artist> The Wombats </artist>
+        <genre> Alt/Rock </genre>
+        <year> 2011 </year>
+    </song>
+
+    <song> 
+        <title> You're Dead </title>
+        <artist> Norma Tanega </artist>
+        <genre> Folk </genre>
+        <year> 1966 </year>
+    </song>
+
+    <song> 
+        <title> Raging on a Sunday </title>
+        <artist> Bohnes </artist>
+        <genre> Alt/Rock </genre>
+        <year> 2018 </year>
+    </song>
+    <dedication> Our totally sick set list inspired by
+    Jules Paschal's spotify playlist, vampire brainworms! </dedication>
+</SetList>
